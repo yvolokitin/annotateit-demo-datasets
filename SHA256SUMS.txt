@@ -1,0 +1,3 @@
+acc98ca0b973ca71c1c0a6956f4254b1032475553b3412a48e4f6061bc9e1739  coastal-scene-comparison-evidence-v1.zip
+d4e6378aaad54885d6ba95dcc4a7216d6196d9f04c9156f888ccf4d6f1dfd559  coastal-scene-images-v1.zip
+64629d4ed60ea4f72d5cf01f3490c1fbc0c6c1f7269452de1eef313471f1da68  coastal-scene-starter-v1.zip

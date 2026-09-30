@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "date": "2026-09-30",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Coastal Scene by AnnotateIt — https://annotateit.ai/datasets/coastal-scene/ — CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Indicate any changes you make.",
+  "sourceSha256": "69d163e5cfdfd2ebc62f42722948a42b2880ea21fc05cac707aa01a568344eab",
+  "imageCount": 100,
+  "uniqueImageCount": 92,
+  "width": 1820,
+  "height": 1136,
+  "files": [
+    {
+      "name": "coastal-scene-comparison-evidence-v1.zip",
+      "bytes": 7392586,
+      "sha256": "acc98ca0b973ca71c1c0a6956f4254b1032475553b3412a48e4f6061bc9e1739"
+    },
+    {
+      "name": "coastal-scene-images-v1.zip",
+      "bytes": 203433417,
+      "sha256": "d4e6378aaad54885d6ba95dcc4a7216d6196d9f04c9156f888ccf4d6f1dfd559"
+    },
+    {
+      "name": "coastal-scene-starter-v1.zip",
+      "bytes": 203442471,
+      "sha256": "64629d4ed60ea4f72d5cf01f3490c1fbc0c6c1f7269452de1eef313471f1da68"
+    }
+  ]
+}

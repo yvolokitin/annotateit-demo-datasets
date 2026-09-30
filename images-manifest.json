@@ -1,0 +1,1302 @@
+[
+  {
+    "name": "video_frame_000312.jpg",
+    "downloadName": "000_video_frame_000312.jpg",
+    "sha256": "b701f7195edbdf250719ea146c047021925c9f1118eefbc2f127b4b45714b49f",
+    "bytes": 2036238,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 312,
+        "ptsMs": 13000
+      }
+    }
+  },
+  {
+    "name": "video_frame_000308.jpg",
+    "downloadName": "001_video_frame_000308.jpg",
+    "sha256": "4f78ca286bc2f32175befc141ec7cfb9f8be754f9e5d807b860e4f4d5321b6e4",
+    "bytes": 2038142,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 308,
+        "ptsMs": 12833.333333333334
+      }
+    }
+  },
+  {
+    "name": "video_frame_000304.jpg",
+    "downloadName": "002_video_frame_000304.jpg",
+    "sha256": "754522c162ec0db789316cd151400e94cad8dea5cc4aeab3c7607cb361d22319",
+    "bytes": 2039078,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 304,
+        "ptsMs": 12666.666666666666
+      }
+    }
+  },
+  {
+    "name": "video_frame_000300.jpg",
+    "downloadName": "003_video_frame_000300.jpg",
+    "sha256": "27e44b72bf16ec874755d2631840af85717e680b18692995aa0f0cf7cd6a38e2",
+    "bytes": 2034896,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 300,
+        "ptsMs": 12500
+      }
+    }
+  },
+  {
+    "name": "video_frame_000296.jpg",
+    "downloadName": "004_video_frame_000296.jpg",
+    "sha256": "33ad25c2d781d067ee1b6997b4877a519661e6580404a2666969c1d001e12a99",
+    "bytes": 2033910,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 296,
+        "ptsMs": 12333.333333333334
+      }
+    }
+  },
+  {
+    "name": "video_frame_000292.jpg",
+    "downloadName": "005_video_frame_000292.jpg",
+    "sha256": "05b5a4ee3bb125e358a56cfd695f530cea3d8b8d80def8aa8e0bd5a662b43a59",
+    "bytes": 2032087,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 292,
+        "ptsMs": 12166.666666666666
+      }
+    }
+  },
+  {
+    "name": "video_frame_000288.jpg",
+    "downloadName": "006_video_frame_000288.jpg",
+    "sha256": "c3c66e71cc4ff4b481706dc58160eb20233e31aa2bdd1d7c7428e40a1fe62beb",
+    "bytes": 2028567,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 288,
+        "ptsMs": 12000
+      }
+    }
+  },
+  {
+    "name": "video_frame_000284.jpg",
+    "downloadName": "007_video_frame_000284.jpg",
+    "sha256": "9364de54eaa17a8b5bdc3b378f5ee17edfde0b3b73b989171d37bd44da845817",
+    "bytes": 2022870,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 284,
+        "ptsMs": 11833.333333333334
+      }
+    }
+  },
+  {
+    "name": "video_frame_000280.jpg",
+    "downloadName": "008_video_frame_000280.jpg",
+    "sha256": "f0fde3982ebdec4686d80615f88165f2d6c619aee0c4606cc95169cb5ef0143c",
+    "bytes": 2021524,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 280,
+        "ptsMs": 11666.666666666666
+      }
+    }
+  },
+  {
+    "name": "video_frame_000276.jpg",
+    "downloadName": "009_video_frame_000276.jpg",
+    "sha256": "0bb214ec5fd0280598c8c287dea036426f5baaaeee98a1c02fc08db7b910d69f",
+    "bytes": 2016407,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 276,
+        "ptsMs": 11500
+      }
+    }
+  },
+  {
+    "name": "video_frame_000273.jpg",
+    "downloadName": "010_video_frame_000273.jpg",
+    "sha256": "3c43514c3afb5061c965578a0ec9ca30be1f83eb6752bad1c1070ca38c5b13ed",
+    "bytes": 2011446,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 273,
+        "ptsMs": 11375
+      }
+    }
+  },
+  {
+    "name": "video_frame_000269.jpg",
+    "downloadName": "011_video_frame_000269.jpg",
+    "sha256": "a20c8beddb277b4958a51973a6f5c1c41cbe1d37398ae71ffc61f3715b68355a",
+    "bytes": 2002981,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 269,
+        "ptsMs": 11208.333333333334
+      }
+    }
+  },
+  {
+    "name": "video_frame_000265.jpg",
+    "downloadName": "012_video_frame_000265.jpg",
+    "sha256": "7534fd8cb3c65de66ea676c5d479d698ee97219f1ee1d941691c997e47294606",
+    "bytes": 1997013,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 265,
+        "ptsMs": 11041.666666666666
+      }
+    }
+  },
+  {
+    "name": "video_frame_000261.jpg",
+    "downloadName": "013_video_frame_000261.jpg",
+    "sha256": "abdd526ca4a11cb82c14b6e32d3cf2af7ae7800f52e46c451d3a20b0df573625",
+    "bytes": 1985002,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 261,
+        "ptsMs": 10875
+      }
+    }
+  },
+  {
+    "name": "video_frame_000257.jpg",
+    "downloadName": "014_video_frame_000257.jpg",
+    "sha256": "d9d6838a64fb1763f92a901827a5180854d1b322fdff26b5a39b028767250fb3",
+    "bytes": 1967331,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 257,
+        "ptsMs": 10708.333333333334
+      }
+    }
+  },
+  {
+    "name": "video_frame_000253.jpg",
+    "downloadName": "015_video_frame_000253.jpg",
+    "sha256": "c1f50cadbbf697bcf97c863540644b0dc6c8af1783d873dc71c021bc4d042ef2",
+    "bytes": 1943530,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 253,
+        "ptsMs": 10541.666666666666
+      }
+    }
+  },
+  {
+    "name": "video_frame_000249.jpg",
+    "downloadName": "016_video_frame_000249.jpg",
+    "sha256": "3923b5008101b17fd050c556e8d2b6e641ebfb738688bb67646db157d5f3b8ee",
+    "bytes": 2036795,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 249,
+        "ptsMs": 10375
+      }
+    }
+  },
+  {
+    "name": "video_frame_000245.jpg",
+    "downloadName": "017_video_frame_000245.jpg",
+    "sha256": "38aac396e53ad525f5e33f130eba7268ad8be6758f764bf26a3e131885aa6b05",
+    "bytes": 2038766,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 245,
+        "ptsMs": 10208.333333333334
+      }
+    }
+  },
+  {
+    "name": "video_frame_000241.jpg",
+    "downloadName": "018_video_frame_000241.jpg",
+    "sha256": "73480488964304461fcb556a53c64ac649ba4b59b58ca3ee9030db5636e7aa3a",
+    "bytes": 2039173,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 241,
+        "ptsMs": 10041.666666666666
+      }
+    }
+  },
+  {
+    "name": "video_frame_000237.jpg",
+    "downloadName": "019_video_frame_000237.jpg",
+    "sha256": "276c09ffba2731be2078ace62b5a8c080e3a89a09dec3a8fb7b2507c9b0f4661",
+    "bytes": 2039286,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 237,
+        "ptsMs": 9875
+      }
+    }
+  },
+  {
+    "name": "video_frame_000233.jpg",
+    "downloadName": "020_video_frame_000233.jpg",
+    "sha256": "ef55d28e98269947170dd235acbe88b79140fbd4d9c47f5491e7847adfa249ec",
+    "bytes": 2040603,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 233,
+        "ptsMs": 9708.333333333334
+      }
+    }
+  },
+  {
+    "name": "video_frame_000229.jpg",
+    "downloadName": "021_video_frame_000229.jpg",
+    "sha256": "b9d0c6f8f2dd1fde2b0bc83a2da1fdd9459e0fee8bf156806393583492b4595e",
+    "bytes": 2038704,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 229,
+        "ptsMs": 9541.666666666666
+      }
+    }
+  },
+  {
+    "name": "video_frame_000225.jpg",
+    "downloadName": "022_video_frame_000225.jpg",
+    "sha256": "4403e6284bd4d7887189ba10679400db1927a0bbef122a942482ce0e5676cc76",
+    "bytes": 2040842,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 225,
+        "ptsMs": 9375
+      }
+    }
+  },
+  {
+    "name": "video_frame_000221.jpg",
+    "downloadName": "023_video_frame_000221.jpg",
+    "sha256": "e382fb2bd93b24dfd719238eb2d11ae5caec64126f1cef090816c4448c45530a",
+    "bytes": 2038243,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 221,
+        "ptsMs": 9208.333333333334
+      }
+    }
+  },
+  {
+    "name": "video_frame_000217.jpg",
+    "downloadName": "024_video_frame_000217.jpg",
+    "sha256": "a173d24de0a3aae5222af577969eeb1b9c8c7ef9acb14ffecbcacbdd64d58bef",
+    "bytes": 2037478,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 217,
+        "ptsMs": 9041.666666666666
+      }
+    }
+  },
+  {
+    "name": "video_frame_000213.jpg",
+    "downloadName": "025_video_frame_000213.jpg",
+    "sha256": "95d0e98cb16491cab4f44427e487da8434120bdddf50119523e5ac1eaff10604",
+    "bytes": 2037160,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 213,
+        "ptsMs": 8875
+      }
+    }
+  },
+  {
+    "name": "video_frame_000209.jpg",
+    "downloadName": "026_video_frame_000209.jpg",
+    "sha256": "4c3a052aa92a7fddb190c323f032d65cf143ffd975da94beae480bf79b6e0fb5",
+    "bytes": 2033615,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 209,
+        "ptsMs": 8708.333333333334
+      }
+    }
+  },
+  {
+    "name": "video_frame_000205.jpg",
+    "downloadName": "027_video_frame_000205.jpg",
+    "sha256": "0e85347391b69d84f509b2276cada8844fdc6d25053e2bb15d66099f9af944e2",
+    "bytes": 2032587,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 205,
+        "ptsMs": 8541.666666666666
+      }
+    }
+  },
+  {
+    "name": "video_frame_000201.jpg",
+    "downloadName": "028_video_frame_000201.jpg",
+    "sha256": "e7072af72888869a274ae38ca40fa8c9d2703b823039ca3b7fa12005a3c34e17",
+    "bytes": 2027866,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 201,
+        "ptsMs": 8375
+      }
+    }
+  },
+  {
+    "name": "video_frame_000197.jpg",
+    "downloadName": "029_video_frame_000197.jpg",
+    "sha256": "6572b8a1dbf44402452542c6632735384490a0df10832abc3c61a9d0f25aa185",
+    "bytes": 2028295,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 197,
+        "ptsMs": 8208.333333333334
+      }
+    }
+  },
+  {
+    "name": "video_frame_000194.jpg",
+    "downloadName": "030_video_frame_000194.jpg",
+    "sha256": "8c727f4e629723eee392723aeed23e023bd74f15a790282b850612ad8d7032da",
+    "bytes": 2026273,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 194,
+        "ptsMs": 8083.333333333334
+      }
+    }
+  },
+  {
+    "name": "video_frame_000190.jpg",
+    "downloadName": "031_video_frame_000190.jpg",
+    "sha256": "f6635b3fc73a6b5d5736e0dcba7b2c36cd82054ffa27742371daaf7033fea316",
+    "bytes": 2030666,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 190,
+        "ptsMs": 7916.666666666667
+      }
+    }
+  },
+  {
+    "name": "video_frame_000186.jpg",
+    "downloadName": "032_video_frame_000186.jpg",
+    "sha256": "29c9e3f6c5dddd15c9179406aa53095c8b8a96d225b5b30eaa9a81e038a51d1c",
+    "bytes": 2022873,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 186,
+        "ptsMs": 7750
+      }
+    }
+  },
+  {
+    "name": "video_frame_000182.jpg",
+    "downloadName": "033_video_frame_000182.jpg",
+    "sha256": "c27b1a8879e6dd0cbbe5729fb27340b65b4cd7bea54c4d3e4f6ccd690cf0fef7",
+    "bytes": 2021574,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 182,
+        "ptsMs": 7583.333333333333
+      }
+    }
+  },
+  {
+    "name": "video_frame_000178.jpg",
+    "downloadName": "034_video_frame_000178.jpg",
+    "sha256": "ed4644ff9089393cc66e7e92b507f7dbf0199180ef24c88f8dc05e9625d5d7a0",
+    "bytes": 2010868,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 178,
+        "ptsMs": 7416.666666666667
+      }
+    }
+  },
+  {
+    "name": "video_frame_000174.jpg",
+    "downloadName": "035_video_frame_000174.jpg",
+    "sha256": "3e775f218d871b95f0a3df2627b319528a735d12a711324124fc38bcff142bb3",
+    "bytes": 2010868,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 174,
+        "ptsMs": 7250
+      }
+    }
+  },
+  {
+    "name": "video_frame_000170.jpg",
+    "downloadName": "036_video_frame_000170.jpg",
+    "sha256": "99b929f11044893fab5196982265fa2fe64f11cf7a8ead985ae5cc84266e759e",
+    "bytes": 2000367,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 170,
+        "ptsMs": 7083.333333333333
+      }
+    }
+  },
+  {
+    "name": "video_frame_000166.jpg",
+    "downloadName": "037_video_frame_000166.jpg",
+    "sha256": "2b2c10152ccb4f6e149796ab45997b29633c82f3bd691258ceef0c2367034473",
+    "bytes": 1996185,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 166,
+        "ptsMs": 6916.666666666667
+      }
+    }
+  },
+  {
+    "name": "video_frame_000162.jpg",
+    "downloadName": "038_video_frame_000162.jpg",
+    "sha256": "14bd6719be9cb4b68482d796a4e66afdf347cb79337cbbe345224dfb8b7c0b91",
+    "bytes": 1979878,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 162,
+        "ptsMs": 6750
+      }
+    }
+  },
+  {
+    "name": "video_frame_000158.jpg",
+    "downloadName": "039_video_frame_000158.jpg",
+    "sha256": "af917423c05b980a3bf8136322d78fe505291d201fb4d5ed538fcdd897116883",
+    "bytes": 1970312,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 158,
+        "ptsMs": 6583.333333333333
+      }
+    }
+  },
+  {
+    "name": "video_frame_000154.jpg",
+    "downloadName": "040_video_frame_000154.jpg",
+    "sha256": "b12526c91a20109bab02e24d0cf2804c4630f8bedf71f1406ccf9fc7759610e2",
+    "bytes": 1928551,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 154,
+        "ptsMs": 6416.666666666667
+      }
+    }
+  },
+  {
+    "name": "video_frame_000150.jpg",
+    "downloadName": "041_video_frame_000150.jpg",
+    "sha256": "63805d518b0795514f0d33cfaca8af74d1a94626219677f9ba8f252203aa4057",
+    "bytes": 2016032,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 150,
+        "ptsMs": 6250
+      }
+    }
+  },
+  {
+    "name": "video_frame_000146.jpg",
+    "downloadName": "042_video_frame_000146.jpg",
+    "sha256": "65b7bd1bcfe3a6d56a8aa1bd84ed8e30d4d4683aff50ea35c8580ac9d9a2b6e4",
+    "bytes": 2047659,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 146,
+        "ptsMs": 6083.333333333333
+      }
+    }
+  },
+  {
+    "name": "video_frame_000142.jpg",
+    "downloadName": "043_video_frame_000142.jpg",
+    "sha256": "b45c2111f7ab6d7293b4a843bc481e8ba7a97bf46db93fa988219cb9bd647459",
+    "bytes": 2060458,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 142,
+        "ptsMs": 5916.666666666667
+      }
+    }
+  },
+  {
+    "name": "video_frame_000138.jpg",
+    "downloadName": "044_video_frame_000138.jpg",
+    "sha256": "ef1ae38d9425d1ef26e6d74ae7c9e193ab945998e59d165223f31dc1e5236fab",
+    "bytes": 2058279,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 138,
+        "ptsMs": 5750
+      }
+    }
+  },
+  {
+    "name": "video_frame_000134.jpg",
+    "downloadName": "045_video_frame_000134.jpg",
+    "sha256": "d7f56b1abb12924e7af310ef1eaa80634af896a076aa7c03c8c444299eb4b5a9",
+    "bytes": 2063652,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 134,
+        "ptsMs": 5583.333333333333
+      }
+    }
+  },
+  {
+    "name": "video_frame_000130.jpg",
+    "downloadName": "046_video_frame_000130.jpg",
+    "sha256": "7d044c8bb958a3d67efdacffbfd9b1c2e4e14de69837b6efda244db4e859b15e",
+    "bytes": 2061413,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 130,
+        "ptsMs": 5416.666666666667
+      }
+    }
+  },
+  {
+    "name": "video_frame_000126.jpg",
+    "downloadName": "047_video_frame_000126.jpg",
+    "sha256": "4660af87109972264cce6ab77d077c9c318b1453f0c65e97f0e8585abda1f2c2",
+    "bytes": 2066390,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 126,
+        "ptsMs": 5250
+      }
+    }
+  },
+  {
+    "name": "video_frame_000122.jpg",
+    "downloadName": "048_video_frame_000122.jpg",
+    "sha256": "af3a5c6b9b431c8c36a2816b1b2f773d707efe9cc7adb608f91e27cab07bdd0d",
+    "bytes": 2065994,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 122,
+        "ptsMs": 5083.333333333333
+      }
+    }
+  },
+  {
+    "name": "video_frame_000118.jpg",
+    "downloadName": "049_video_frame_000118.jpg",
+    "sha256": "4df653a5f2fa3080bd1dfbbdfc43f66ecb13dd4ed12e27e6a6ac18d987798857",
+    "bytes": 2068976,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 118,
+        "ptsMs": 4916.666666666667
+      }
+    }
+  },
+  {
+    "name": "video_frame_000115.jpg",
+    "downloadName": "050_video_frame_000115.jpg",
+    "sha256": "93aa08ff42795149f2c60655cb767e66b5aa197262048f3dab8e6a6cfd25d4c9",
+    "bytes": 2065927,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 115,
+        "ptsMs": 4791.666666666667
+      }
+    }
+  },
+  {
+    "name": "video_frame_000111.jpg",
+    "downloadName": "051_video_frame_000111.jpg",
+    "sha256": "7d65e3dc1313dfa4911f8d97f492c6dfeadcd78902bbd6e78a79b67884367457",
+    "bytes": 2071103,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 111,
+        "ptsMs": 4625
+      }
+    }
+  },
+  {
+    "name": "video_frame_000107.jpg",
+    "downloadName": "052_video_frame_000107.jpg",
+    "sha256": "a39aacb062c860eb437dd8f1c79ff60a783c7b35bde59b6b5f6fd7c49ca50499",
+    "bytes": 2064082,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 107,
+        "ptsMs": 4458.333333333333
+      }
+    }
+  },
+  {
+    "name": "video_frame_000103.jpg",
+    "downloadName": "053_video_frame_000103.jpg",
+    "sha256": "0590ebf60cb4cf407b8d100a122d272de94d15bff9697afd166239c1d47406ba",
+    "bytes": 2069804,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 103,
+        "ptsMs": 4291.666666666667
+      }
+    }
+  },
+  {
+    "name": "video_frame_000099.jpg",
+    "downloadName": "054_video_frame_000099.jpg",
+    "sha256": "10ac39d9ddabb57e6c1613982366fdc2ba1bb06ff8d0e270dfd6e940d2fbfb4c",
+    "bytes": 2064740,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 99,
+        "ptsMs": 4125
+      }
+    }
+  },
+  {
+    "name": "video_frame_000095.jpg",
+    "downloadName": "055_video_frame_000095.jpg",
+    "sha256": "4ede4984ec614515cddf00d2739c5f21ee6a6c5a725f5ceb854d9a9c9c7cb16a",
+    "bytes": 2069946,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 95,
+        "ptsMs": 3958.3333333333335
+      }
+    }
+  },
+  {
+    "name": "video_frame_000091.jpg",
+    "downloadName": "056_video_frame_000091.jpg",
+    "sha256": "da26803252b745f5e64c88544e49679e96dbd5a707bf5e593e175a6b7c45fd1e",
+    "bytes": 2065314,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 91,
+        "ptsMs": 3791.6666666666665
+      }
+    }
+  },
+  {
+    "name": "video_frame_000087.jpg",
+    "downloadName": "057_video_frame_000087.jpg",
+    "sha256": "cdbc304237e59f571932248c29a9ad614398a4d5f2303f5ad014a4d9444ea635",
+    "bytes": 2073814,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 87,
+        "ptsMs": 3625
+      }
+    }
+  },
+  {
+    "name": "video_frame_000083.jpg",
+    "downloadName": "058_video_frame_000083.jpg",
+    "sha256": "df0995986ead7f146e7fcc98d7201d1b5b8c0b3330b99b751506cc3855d2324b",
+    "bytes": 2069971,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 83,
+        "ptsMs": 3458.3333333333335
+      }
+    }
+  },
+  {
+    "name": "video_frame_000079.jpg",
+    "downloadName": "059_video_frame_000079.jpg",
+    "sha256": "53d0aa5f5e26c9209c8f18cb534273f488b30c31b38a2af863c7e21b61c411bb",
+    "bytes": 2071683,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 79,
+        "ptsMs": 3291.6666666666665
+      }
+    }
+  },
+  {
+    "name": "video_frame_000075.jpg",
+    "downloadName": "060_video_frame_000075.jpg",
+    "sha256": "ac30853971afc3f1f90038a32aede3362d0721b7c6e149f401840d1ecb3a5e69",
+    "bytes": 2067114,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 75,
+        "ptsMs": 3125
+      }
+    }
+  },
+  {
+    "name": "video_frame_000071.jpg",
+    "downloadName": "061_video_frame_000071.jpg",
+    "sha256": "98c3249a14816650896b886a0c36d6ac6cefa9fa29b59bfdaeda577d1aafc7a9",
+    "bytes": 2074413,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 71,
+        "ptsMs": 2958.3333333333335
+      }
+    }
+  },
+  {
+    "name": "video_frame_000067.jpg",
+    "downloadName": "062_video_frame_000067.jpg",
+    "sha256": "25ef040d55e3d3125097f55d20e2357020c74b2e0f58d67defde5e9868eb2937",
+    "bytes": 2066727,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 67,
+        "ptsMs": 2791.6666666666665
+      }
+    }
+  },
+  {
+    "name": "video_frame_000063.jpg",
+    "downloadName": "063_video_frame_000063.jpg",
+    "sha256": "951dbfa62443dc4e1d8899f121978a9560134e5dba88e6c3a551dd7a64b54c4a",
+    "bytes": 2070991,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 63,
+        "ptsMs": 2625
+      }
+    }
+  },
+  {
+    "name": "video_frame_000059.jpg",
+    "downloadName": "064_video_frame_000059.jpg",
+    "sha256": "2397b985b19d9d62263b5412efa58310eba350cfdfa83641285bc21d6873536f",
+    "bytes": 2064268,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 59,
+        "ptsMs": 2458.3333333333335
+      }
+    }
+  },
+  {
+    "name": "video_frame_000055.jpg",
+    "downloadName": "065_video_frame_000055.jpg",
+    "sha256": "6d8d33a7eea88d532e02d9e2e26801c33c656d4f0012b46adcf92e4d84e834ed",
+    "bytes": 2067959,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 55,
+        "ptsMs": 2291.6666666666665
+      }
+    }
+  },
+  {
+    "name": "video_frame_000051.jpg",
+    "downloadName": "066_video_frame_000051.jpg",
+    "sha256": "ee57e5c4f52fd6a19c9d6f3c2c435bffa7b4bd4f0dee1bde76a4c81c7ee36fda",
+    "bytes": 2050054,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 51,
+        "ptsMs": 2125
+      }
+    }
+  },
+  {
+    "name": "video_frame_000047.jpg",
+    "downloadName": "067_video_frame_000047.jpg",
+    "sha256": "c296413ca0bd9cdc5046fa8898fd0dce94dc8a4a6864290114aa77a350783526",
+    "bytes": 2049425,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 47,
+        "ptsMs": 1958.3333333333333
+      }
+    }
+  },
+  {
+    "name": "video_frame_000043.jpg",
+    "downloadName": "068_video_frame_000043.jpg",
+    "sha256": "91c77d799c2d70148ed783d4d85fcfaef84f6dcbffcfe09c0ec38f8fbb4f2091",
+    "bytes": 2044841,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 43,
+        "ptsMs": 1791.6666666666667
+      }
+    }
+  },
+  {
+    "name": "video_frame_000039.jpg",
+    "downloadName": "069_video_frame_000039.jpg",
+    "sha256": "897adb97d17f7b102969b19bb3fe13e2bb825f1bb59fc1dabb3d470cc9f34702",
+    "bytes": 2060126,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 39,
+        "ptsMs": 1625
+      }
+    }
+  },
+  {
+    "name": "video_frame_000036.jpg",
+    "downloadName": "070_video_frame_000036.jpg",
+    "sha256": "59b596ba70676290d76ebd53d8bc065676abdbebfd915c03aa254ed99031dff5",
+    "bytes": 2059321,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 36,
+        "ptsMs": 1500
+      }
+    }
+  },
+  {
+    "name": "video_frame_000032.jpg",
+    "downloadName": "071_video_frame_000032.jpg",
+    "sha256": "2fbe2e17adccae819e9b12eb7919925f051089fdc3c944ac1ae7b87ce1c0cd39",
+    "bytes": 2056975,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 32,
+        "ptsMs": 1333.3333333333333
+      }
+    }
+  },
+  {
+    "name": "video_frame_000028.jpg",
+    "downloadName": "072_video_frame_000028.jpg",
+    "sha256": "2062a42f3d9b7a79ea35aede1c422be4c7bd5f6a0cf005a402e26f373572b23e",
+    "bytes": 2052586,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 28,
+        "ptsMs": 1166.6666666666667
+      }
+    }
+  },
+  {
+    "name": "video_frame_000024.jpg",
+    "downloadName": "073_video_frame_000024.jpg",
+    "sha256": "bc5fc62fc74d073fa93b08997070a7a20bbb10e2817e4fd2c1b7008b57c132ed",
+    "bytes": 2048755,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 24,
+        "ptsMs": 1000
+      }
+    }
+  },
+  {
+    "name": "video_frame_000020.jpg",
+    "downloadName": "074_video_frame_000020.jpg",
+    "sha256": "3e3b9b20c32723f655b572db7ede6c42ed251c0f262fb74beae39a547091c296",
+    "bytes": 2043058,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 20,
+        "ptsMs": 833.3333333333334
+      }
+    }
+  },
+  {
+    "name": "video_frame_000016.jpg",
+    "downloadName": "075_video_frame_000016.jpg",
+    "sha256": "e4a00382456d314f6a65d52e18ba14758046edf8d82cefb40a7b5b8c093c5cab",
+    "bytes": 2040744,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 16,
+        "ptsMs": 666.6666666666666
+      }
+    }
+  },
+  {
+    "name": "video_frame_000012.jpg",
+    "downloadName": "076_video_frame_000012.jpg",
+    "sha256": "98638561c1f76a6fa55d137fca71f02658698cf8eb6da72d7aff0fc01023f710",
+    "bytes": 2030733,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 12,
+        "ptsMs": 500
+      }
+    }
+  },
+  {
+    "name": "video_frame_000008.jpg",
+    "downloadName": "077_video_frame_000008.jpg",
+    "sha256": "32d4f39d3fad3c2992bd495d67954210b3da1bb3aa721fee9350423e302a9258",
+    "bytes": 2015837,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 8,
+        "ptsMs": 333.3333333333333
+      }
+    }
+  },
+  {
+    "name": "video_frame_000004.jpg",
+    "downloadName": "078_video_frame_000004.jpg",
+    "sha256": "44b6449235d0cd2c14ef7eaaea9b78a54c017e276ff2f81528fe288686a6c2ad",
+    "bytes": 1996635,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 4,
+        "ptsMs": 166.66666666666666
+      }
+    }
+  },
+  {
+    "name": "video_frame_000000.jpg",
+    "downloadName": "079_video_frame_000000.jpg",
+    "sha256": "acfe9e165dcf696853679ae1fb454f16edb30f98ad6396f70251df40434fa3f4",
+    "bytes": 1981719,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 0,
+        "ptsMs": 0
+      }
+    }
+  },
+  {
+    "name": "video_frame_000312.jpg",
+    "downloadName": "080_video_frame_000312.jpg",
+    "sha256": "b701f7195edbdf250719ea146c047021925c9f1118eefbc2f127b4b45714b49f",
+    "bytes": 2036238,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 312,
+        "ptsMs": 13000
+      }
+    }
+  },
+  {
+    "name": "video_frame_000296.jpg",
+    "downloadName": "081_video_frame_000296.jpg",
+    "sha256": "33ad25c2d781d067ee1b6997b4877a519661e6580404a2666969c1d001e12a99",
+    "bytes": 2033910,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 296,
+        "ptsMs": 12333.333333333334
+      }
+    }
+  },
+  {
+    "name": "video_frame_000279.jpg",
+    "downloadName": "082_video_frame_000279.jpg",
+    "sha256": "52568d7fee9425c48beb0032ac625f8b2a6da9dc1702b950f86eeb56207a6516",
+    "bytes": 2021261,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 279,
+        "ptsMs": 11625
+      }
+    }
+  },
+  {
+    "name": "video_frame_000263.jpg",
+    "downloadName": "083_video_frame_000263.jpg",
+    "sha256": "f15369d30daf7ce09d30742fd7a7f1db37666af5b6874fb8fe5e78e2f9eecac3",
+    "bytes": 1994210,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 263,
+        "ptsMs": 10958.333333333334
+      }
+    }
+  },
+  {
+    "name": "video_frame_000246.jpg",
+    "downloadName": "084_video_frame_000246.jpg",
+    "sha256": "fe75e7265864c5d93c8d4537c7fc0688318f5f10989186447afe10944fabc51a",
+    "bytes": 2043968,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 246,
+        "ptsMs": 10250
+      }
+    }
+  },
+  {
+    "name": "video_frame_000230.jpg",
+    "downloadName": "085_video_frame_000230.jpg",
+    "sha256": "b5ac0ebf52fd71eb649d400b30fd1fc2c35e94994df1800903412b930e363b74",
+    "bytes": 2041788,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 230,
+        "ptsMs": 9583.333333333334
+      }
+    }
+  },
+  {
+    "name": "video_frame_000213.jpg",
+    "downloadName": "086_video_frame_000213.jpg",
+    "sha256": "95d0e98cb16491cab4f44427e487da8434120bdddf50119523e5ac1eaff10604",
+    "bytes": 2037160,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 213,
+        "ptsMs": 8875
+      }
+    }
+  },
+  {
+    "name": "video_frame_000197.jpg",
+    "downloadName": "087_video_frame_000197.jpg",
+    "sha256": "6572b8a1dbf44402452542c6632735384490a0df10832abc3c61a9d0f25aa185",
+    "bytes": 2028295,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 197,
+        "ptsMs": 8208.333333333334
+      }
+    }
+  },
+  {
+    "name": "video_frame_000181.jpg",
+    "downloadName": "088_video_frame_000181.jpg",
+    "sha256": "9351fcbed1ea182130db7e2b2a3739dc022e9443c874df9e6171dac00a1074b4",
+    "bytes": 2017054,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 181,
+        "ptsMs": 7541.666666666667
+      }
+    }
+  },
+  {
+    "name": "video_frame_000164.jpg",
+    "downloadName": "089_video_frame_000164.jpg",
+    "sha256": "ccd08ed3cc3c19044761fd624a5ec55e84db34dc396843d7aa4b91936a535e2c",
+    "bytes": 1988587,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 164,
+        "ptsMs": 6833.333333333333
+      }
+    }
+  },
+  {
+    "name": "video_frame_000148.jpg",
+    "downloadName": "090_video_frame_000148.jpg",
+    "sha256": "6518011adfa2c1f73280a0fcf9470f44bd69f8709e4305c2328f761f6c42ad70",
+    "bytes": 2035884,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 148,
+        "ptsMs": 6166.666666666667
+      }
+    }
+  },
+  {
+    "name": "video_frame_000131.jpg",
+    "downloadName": "091_video_frame_000131.jpg",
+    "sha256": "19ff9c65da56da103c4d1e2921c48c9b92e3fe667813d412b71c81934a4116da",
+    "bytes": 2059112,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 131,
+        "ptsMs": 5458.333333333333
+      }
+    }
+  },
+  {
+    "name": "video_frame_000115.jpg",
+    "downloadName": "092_video_frame_000115.jpg",
+    "sha256": "93aa08ff42795149f2c60655cb767e66b5aa197262048f3dab8e6a6cfd25d4c9",
+    "bytes": 2065927,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 115,
+        "ptsMs": 4791.666666666667
+      }
+    }
+  },
+  {
+    "name": "video_frame_000099.jpg",
+    "downloadName": "093_video_frame_000099.jpg",
+    "sha256": "10ac39d9ddabb57e6c1613982366fdc2ba1bb06ff8d0e270dfd6e940d2fbfb4c",
+    "bytes": 2064740,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 99,
+        "ptsMs": 4125
+      }
+    }
+  },
+  {
+    "name": "video_frame_000082.jpg",
+    "downloadName": "094_video_frame_000082.jpg",
+    "sha256": "b7fb4b32a859c8d356bdd7077ce145e66c39ebcd3ce7221e397368c43af3bf66",
+    "bytes": 2071031,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 82,
+        "ptsMs": 3416.6666666666665
+      }
+    }
+  },
+  {
+    "name": "video_frame_000066.jpg",
+    "downloadName": "095_video_frame_000066.jpg",
+    "sha256": "79cd3c6694f52715bda07952da5926d56c08daaf25b35c1a02ad764c6fb976dc",
+    "bytes": 2068201,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 66,
+        "ptsMs": 2750
+      }
+    }
+  },
+  {
+    "name": "video_frame_000049.jpg",
+    "downloadName": "096_video_frame_000049.jpg",
+    "sha256": "ddb3dbcf0a0d9a27680ff3a1536f1f077866f7dc78f996aa3ee476d643395464",
+    "bytes": 2047127,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 49,
+        "ptsMs": 2041.6666666666665
+      }
+    }
+  },
+  {
+    "name": "video_frame_000033.jpg",
+    "downloadName": "097_video_frame_000033.jpg",
+    "sha256": "22a4279854cd76809972727d1988bff3864e128d726c4eeaf67c90a0093d2b2c",
+    "bytes": 2055507,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 33,
+        "ptsMs": 1375
+      }
+    }
+  },
+  {
+    "name": "video_frame_000016.jpg",
+    "downloadName": "098_video_frame_000016.jpg",
+    "sha256": "e4a00382456d314f6a65d52e18ba14758046edf8d82cefb40a7b5b8c093c5cab",
+    "bytes": 2040744,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 16,
+        "ptsMs": 666.6666666666666
+      }
+    }
+  },
+  {
+    "name": "video_frame_000000.jpg",
+    "downloadName": "099_video_frame_000000.jpg",
+    "sha256": "acfe9e165dcf696853679ae1fb454f16edb30f98ad6396f70251df40434fa3f4",
+    "bytes": 1981719,
+    "provenance": {
+      "origin": "upload",
+      "ref": {
+        "frameIndex": 0,
+        "ptsMs": 0
+      }
+    }
+  }
+]
