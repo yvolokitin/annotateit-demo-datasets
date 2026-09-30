@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "coordinates": "original image pixels, 1820 x 1136",
+  "models": {
+    "m": "ECSeg-M, confidence 0.40",
+    "x": "ECSeg-X, confidence 0.40",
+    "rf": "RF-DETR-Seg-2XL, confidence 0.40",
+    "rf25": "RF-DETR-Seg-2XL, confidence 0.25",
+    "gpt": "ChatGPT / GPT-6-Astra"
+  },
+  "frames": [
+    {
+      "sampleId": 0,
+      "sha256": "b701f7195edbdf250719ea146c047021925c9f1118eefbc2f127b4b45714b49f",
+      "matchingImageDownloads": [
+        "000_video_frame_000312.jpg",
+        "080_video_frame_000312.jpg"
+      ]
+    },
+    {
+      "sampleId": 3,
+      "sha256": "f15369d30daf7ce09d30742fd7a7f1db37666af5b6874fb8fe5e78e2f9eecac3",
+      "matchingImageDownloads": [
+        "083_video_frame_000263.jpg"
+      ]
+    },
+    {
+      "sampleId": 5,
+      "sha256": "b5ac0ebf52fd71eb649d400b30fd1fc2c35e94994df1800903412b930e363b74",
+      "matchingImageDownloads": [
+        "085_video_frame_000230.jpg"
+      ]
+    }
+  ],
+  "limitations": "Polygon vertices only. No reconstructed per-object labels, confidence scores or reviewed ground truth."
+}

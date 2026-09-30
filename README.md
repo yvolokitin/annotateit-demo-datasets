@@ -59,3 +59,5 @@ The material supports visual inspection of this run, not a reproducible accuracy
 - Full video: https://youtu.be/wixgwmg3O00
 
 Checksums are in SHA256SUMS.txt. Version 1.0.0, released 2026-09-30.
+
+See [comparison-manifest.json](comparison-manifest.json) for model-key definitions and the exact matching source-image filenames.
