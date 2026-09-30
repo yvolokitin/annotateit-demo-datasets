@@ -12,6 +12,15 @@ Coastal Scene by AnnotateIt â€” https://annotateit.ai/datasets/coastal-scene/ â€
 Images and AnnotateIt's accompanying dataset documentation are licensed under CC BY 4.0.
 This is not a license for model weights, third-party software, or the AnnotateIt application.
 
+![Coastal source frame](preview.jpg)
+
+## Download version 1
+
+- [AnnotateIt starter project](https://models.annotateit.ai/v2/samples/coastal-scene-v1/coastal-scene-starter-v1.zip)
+- [Original JPEG images](https://models.annotateit.ai/v2/samples/coastal-scene-v1/coastal-scene-images-v1.zip)
+- [Comparison evidence](https://models.annotateit.ai/v2/samples/coastal-scene-v1/coastal-scene-comparison-evidence-v1.zip)
+- [GitHub release and mirrors](https://github.com/yvolokitin/annotateit-demo-datasets/releases/tag/coastal-scene-v1)
+
 ## Files
 
 - coastal-scene-starter-v1.zip: AnnotateIt project, 100 images, no labels or annotations.
